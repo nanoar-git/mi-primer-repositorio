@@ -1,2 +1,2 @@
-# mi-primer-repositorio
+# mi-primerREADME
 Mi primer repositorio en GitHub par curso de FreeCode Camp.
